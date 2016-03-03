@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            
+            <meta charset="utf-8">
+            <meta name="description" content="Welcome to the Home page of The Lounge Restaurant and Cafe, based in Clane, Co. Kildare. Open 7 days a week, book your table today on 045 893 222." />
+            <title> The Lounge Cafe & Restaurant</title>
+            <style>                
+                div{
+                    width:500px;
+                    padding:10px;
+                    background:#000000;
+                    border:10px solid #000000;
+                    margin:10px 0;align-content:center
+                    
+                
+                }
+                span{
+                    color:#f30b0b;
+                    font-weight:bold
+                }
+                .bold{
+                    font-weight:bold
+                }
+               
+                
+            </style>
+            <link rel="stylesheet" href="style.css">
+            <script>alert("Welcome To The Lounge Cafe & Restaurant");</script>
+         </head>
+            
+    <body>
+       
+       
+       <!-- <h1><a href=""> Contact Us </a></h1> -->
+        
+        <div style="margin:20px auto;background-color:#faf3f3; class= first cafe & restaurant"align="center">
+            <h1> Welcome </h1>
+            <!--This Is Our Cafe & Restaurant Comment-->
+            <p> This Is Our Cafe & Restaurant </p>
+            <!--This Is Our Cafe & Restaurant Image I Scaled It To 100%*100%-->
+            <img src="ejs-cafe-bar-and-restaurant.jpg" width="100%" height="100%" alt="The Lounge Cafe & Restaurant" />
+        </div>
+        <div style="margin:20px auto;background-color:#faf3f3;" align="center">
+            <h1> Have a Seat </h1>
+            <p> You Can Get What You Wanna From Eating Or Drinking </p>
+            <img src="St-Regis-Brasserie-HD-1.jpg" width="100%" height="100%" alt=" Our Reception Section" />
+        </div>
+
+            <div style="margin:20px auto;background-color:#a7a4a4;width:500px;padding:10px">
+                We Wish You Have A Nice Time In Our Cafe And Restaurant <span> <br> "The Lounge" </span>
+            </div>
+            <div style="margin:20px auto;background-color:#faf3f3; class="Welcome To Our Menu" align="center">
+                <p> Order What You Want To Eat And Drink </p>
+                <img src="images.jpg" width="100%" height="100%" alt="Felicitously and labrum" />
+                
+            </div>
+            <h1> <span> Our Menu </span> </h1>
+            <h2> <mark> Drinks </mark> </h2>
+        <div style="margin:20px auto;background-color:#faf3f3; class= delicious" align="center">
+            <p> We Hope That You Like Our Drinks </p>
+            <img src="cocktails.jpg" width="100%" height="100%" alt="Delicious Drinks">
+
+        </div>
+
+            <ol>
+                <li>
+                    <h3> <span> Soft Drinks </span> </h3>
+                    <ol>
+                        <li>
+                            <b> Pepsi </b>
+                            <ol>
+                                <li> <b> Pepsi </b> </li>
+                                <li> <b> Pepsi Diet </b> </li>
+                            </ol>
+                        </li>
+                        <li> <b>  7Up </b> </li>
+                        <li> <b> Ranni </b> </li>
+                        <li> <b> Coca </b> </li>
+                    </ol>
+                </li>
+
+
+                <li>
+                    <h4> <span> Hot Drinks </span> </h4>
+                    <ol>
+                        <li> <b> Tea</b> </li>
+                        <li> <b> Coffee </b> </li>
+                        <li> <b> Espresso </b> </li>
+                        <li> <b> Nescafee </b> </li>
+
+                    </ol>
+                </li>
+            </ol>
+            <h2> <mark> Food </mark> </h2>
+        <div style="margin:20px auto;background-color:#faf3f3; class="delicious food">
+            <p> Try To Eat Our Delicious Food </p>
+            <br>
+            <img src="burger.jpg" width="100%" height="100%" alt="Our Delicious Burger">
+            <img src="a39924a3fcb7266ff7360af8a6ba2e98.jpg" width="100%" height="100%" alt="Our Delicious Barbecue">
+            <br />
+        </div>
+
+            <ol>
+                <li>
+                    
+                        <h3> <span> Pasta </span> </h3>
+                        <ol>
+                            <li>
+                                <b> Checken Pasta </b>
+                                <ol>
+                                    <li> <b> With Mushroom </b> </li>
+                                    <li> <b> Without Mushroom </b> </li>
+                       </ol>
+                                </ol>
+
+                </li>
+                            <li> <b> Negresko </b> </li>
+                            <li> <b> Barbecue </b> </li>
+                            <li> <b> Faheta   </b> </li>
+                        </ol>
+                    </li>
+                
+                <li>
+                    <h4> <span> Pizza </span> </h4>
+                    <ol>
+                        <li> <b> Checken </b> </li>
+                        <li> <b> Meat </b> </li>
+                        <li> <b> Muchroom </b> </li>
+                        <li> <b> Hot-Dog </b> </li>
+
+                    </ol>
+                </li>
+            </ol>
+        
+            <a href="https://facebook.com/">Facebook</a>
+            <a href="https://twitter.com/">Twitter</a>
+            <a href="http://www.instgram.com/">Instgram</a>
+            <a href="file:///C:/Users/Maradona/Desktop/Project/Contact%20Us.html">Contact Us</a>
+           
+           
+    </body>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
