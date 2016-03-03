@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Contact Us </title>
+</head>
+<body>
+    <div class=" Contact Us ">
+        <h1> Contact Us </h1>
+        <img src="Contact us.png" width="620" height="200" alt=" Contact Us " />
+    </div>
+        <form name="register" action="post.php" method="post">
+            <label> First Name </label>
+            <input type="text" name=" First Name " placeholder=" Type Your First Name ">
+            <br>
+            <label> Last Name </label>
+            <input type="text" name=" Last Name " placeholder=" Type Your Last Name ">
+            <br>
+            <label> Your E-mail </label>
+            <input type="text" name=" E-Mail " placeholder=" Insert Your E-mail ">
+            <br>
+            <label> Password </label>
+            <input type="password" name=" PassWord " placeholder=" Insert Your PassWord ">
+            <input type="checkbox">
+            <label> Remember Me </label>
+            <br>
+            <label> Your Comment </label>
+            <input type="text" name=" Your Comment " placeholder=" Write Your Comment " width="100" height="100" border="10">
+            <br>
+            <input type="submit">
+            <input type="reset">
+        </form>
+
+</body>
+</html>
